@@ -1,1 +1,1 @@
-https://cdn.rawgit.com/ultron1173/sirenie/master/token.txt
+https://cdn.jsdelivr.net/gh/ultron1173/sirenie/token.txt
